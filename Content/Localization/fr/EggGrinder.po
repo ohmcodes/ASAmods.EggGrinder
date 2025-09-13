@@ -1,0 +1,1142 @@
+﻿# EggGrinder French translation.
+# Copyright Studio Wildcard, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: EggGrinder\n"
+"POT-Creation-Date: 2025-09-13 00:41\n"
+"PO-Revision-Date: 2025-09-13 00:41\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. Key:	4235844654
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder.NewVariables(18).NewVariables.Category
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder.NewVariables(18).NewVariables.Category
+msgctxt "GraphLiteral,4235844654"
+msgid "HarvestingResource"
+msgstr ""
+
+#. Key:	696406108
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder.NewVariables(19).NewVariables.Category
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder.NewVariables(19).NewVariables.Category
+msgctxt "GraphLiteral,696406108"
+msgid "Kibble"
+msgstr ""
+
+#. Key:	3354706518
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder.NewVariables(28).NewVariables.Category
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder.NewVariables(28).NewVariables.Category
+msgctxt "GraphLiteral,3354706518"
+msgid "Harvesting Resource"
+msgstr ""
+
+#. Key:	789039584
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder.NewVariables(4).NewVariables.Category
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder.NewVariables(4).NewVariables.Category
+msgctxt "GraphLiteral,789039584"
+msgid "EggData"
+msgstr ""
+
+#. Key:	2881104467
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:BPGetMultiUseEntries.K2Node_MakeStruct_1.ShowPinForProperties(26).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:BPGetMultiUseEntries.K2Node_MakeStruct_1.ShowPinForProperties(26).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2881104467"
+msgid "JH: for inventory UI button use only"
+msgstr ""
+
+#. Key:	155287692
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:BPGetMultiUseEntries.K2Node_MakeStruct_1.ShowPinForProperties(27).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:BPGetMultiUseEntries.K2Node_MakeStruct_1.ShowPinForProperties(27).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,155287692"
+msgid "CD: Use additional UI buttons by setting index to 0, 1, 2 for buttons 4, 5 and 6"
+msgstr ""
+
+#. Key:	940523119
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:CheckIsFertilizedEgg.K2Node_FunctionEntry_31405.MetaData.Category
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:CheckIsFertilizedEgg.K2Node_FunctionEntry_31405.MetaData.Category
+msgctxt "KismetSchema,940523119"
+msgid "Default"
+msgstr ""
+
+#. Key:	1037073192
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:DropAll.K2Node_BreakStruct_1.ShowPinForProperties(32).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:DropAll.K2Node_BreakStruct_1.ShowPinForProperties(32).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1037073192"
+msgid "1 for female, 2 for male: any other value results in random selection at spawn time"
+msgstr ""
+
+#. Key:	1851541098
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(1000).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(1000).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1851541098"
+msgid "The GUID for this actor's content bundle."
+msgstr ""
+
+#. Key:	1837566985
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(1001).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(1001).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1837566985"
+msgid "The scale to apply to any billboard components in editor builds (happens in any WITH_EDITOR build, including non-cooked games)."
+msgstr ""
+
+#. Key:	3108274284
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(1002).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(1002).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3108274284"
+msgid "Array of tags that can be used for grouping and categorizing."
+msgstr ""
+
+#. Key:	1445804801
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(1006).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(1006).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1445804801"
+msgid "CD: last time this actor was ticked via realtime throttled tick"
+msgstr ""
+
+#. Key:	1104736544
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(1023).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(1023).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1104736544"
+msgid "ARKSWITCH - FIXME : Does bAttachmentReplicationUseNetworkParent flag need to be respected? Figure out its prior use"
+msgstr ""
+
+#. Key:	579107771
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(105).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(105).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,579107771"
+msgid "The buff that is currently overriding this dino's colorization"
+msgstr ""
+
+#. Key:	882038493
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(108).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(108).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,882038493"
+msgid "Replicated,"
+msgstr ""
+
+#. Key:	2580862266
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(13).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(13).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2580862266"
+msgid "Can't be moved to sparse data: modified at runtime"
+msgstr ""
+
+#. Key:	2506444626
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(133).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(133).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2506444626"
+msgid "If this dino was spawned by a mission, this is the mission that spawned it"
+msgstr ""
+
+#. Key:	1726667668
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(135).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(135).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1726667668"
+msgid "a wild follower's reference to it's parent"
+msgstr ""
+
+#. Key:	1175395048
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(142).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(142).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1175395048"
+msgid "TW - This is not serialized to avoid constant dirtying of unmoving characters to improve save deltas (see usage of LastInAllyRangeSerialized below)"
+msgstr ""
+
+#. Key:	561408961
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(156).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(156).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,561408961"
+msgid "this is strictly for replicating to guess the time of destruction"
+msgstr ""
+
+#. Key:	132296541
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(176).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(176).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,132296541"
+msgid "Assuming 0 is the bottom, and 1 is the top of his capsule... where we ignroe IK traces IE: 0.5 would be his center point"
+msgstr ""
+
+#. Key:	39197314
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(19).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(19).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,39197314"
+msgid "excluded from sparse data - likely modified at runtime"
+msgstr ""
+
+#. Key:	1594612169
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(245).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(245).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1594612169"
+msgid "Max distance to draw the healthbar (0.0 = infinite)"
+msgstr ""
+
+#. Key:	1809448498
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(264).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(264).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1809448498"
+msgid "the randomly generated age to keep the wild follower as"
+msgstr ""
+
+#. Key:	4134101667
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(306).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(306).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4134101667"
+msgid "Raymondm - 50/50 Track how long this object has been at zero zero."
+msgstr ""
+
+#. Key:	2722692799
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(31).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(31).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2722692799"
+msgid "If not empty on spawn, the dino will put the specified number of points into that base stat before any random stat generation happens.\nThis can stomp the dino's spawn level - eg. if the dino is trying to spawn at level 3, but you have 5 points in stamina here, the dino will be spawned at level 5.\n\nNB: This property is intended to be used by admin cheat commands and is probably not what you want if you're configuring a dino in blueprints."
+msgstr ""
+
+#. Key:	1437705341
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(317).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(317).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1437705341"
+msgid "Which regions allow replacing the color with the dye UI"
+msgstr ""
+
+#. Key:	1657071664
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(32).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(32).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1657071664"
+msgid "If not empty on spawn, the dino will prioritize these stats when randomly generating base stats"
+msgstr ""
+
+#. Key:	2774980960
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(33).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(33).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2774980960"
+msgid "excluded from sparse data - modified at runtime"
+msgstr ""
+
+#. Key:	3744902157
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(330).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(330).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3744902157"
+msgid "Enables debug draw for melee attack swings (editor-only)"
+msgstr ""
+
+#. Key:	1563183696
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(342).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(342).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1563183696"
+msgid "for testing purposes"
+msgstr ""
+
+#. Key:	3624991104
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(349).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(349).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3624991104"
+msgid "marks if it was a wild follower initially"
+msgstr ""
+
+#. Key:	141365556
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(350).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(350).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,141365556"
+msgid "this replicates to players whether it can be imprinted"
+msgstr ""
+
+#. Key:	965230948
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(353).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(353).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,965230948"
+msgid "ARKNX : GS AR : indicate if we want to force update rate optimizations off"
+msgstr ""
+
+#. Key:	2705283541
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(354).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(354).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2705283541"
+msgid "ARKNX : GS AR : fail safe that stops ticking the dino after ascension"
+msgstr ""
+
+#. Key:	4273838361
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(360).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(360).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4273838361"
+msgid "AS: Controls whether or not this dino will allow any regional colorization, either from random color sets or from players attempting to dye/paint"
+msgstr ""
+
+#. Key:	4000629993
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(371).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(371).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4000629993"
+msgid "jorgem: Enables the BP implementable functions BP_OnBasedPawnAddedToSet and BP_OnBasedPawnRemovedFromSet"
+msgstr ""
+
+#. Key:	2039461554
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(405).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(405).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2039461554"
+msgid "Force AbsoluteBaseLevel to be the dino's actual spawn level - causes spawners, difficulty, etc. to not modify spawn level."
+msgstr ""
+
+#. Key:	4167671071
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(406).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(406).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4167671071"
+msgid "Unique dinos can only be uploaded/download once"
+msgstr ""
+
+#. Key:	2571258747
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(41).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(41).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2571258747"
+msgid "a parent's reference to it's followers"
+msgstr ""
+
+#. Key:	4148691140
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(416).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(416).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4148691140"
+msgid "If true, Invokes BPOverrideStencilAllianceForTarget() when PrimalCharacter::UpdateStencilValues() is called for characters viewed by the local player controlling this Dino.\n      Used by the Scout to override the colors of Characters viewed in first person by the scout."
+msgstr ""
+
+#. Key:	1236982261
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(417).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(417).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1236982261"
+msgid "Jira 4885: The Scout in Extinction has to have a normal tick to \"tag\" things in MP."
+msgstr ""
+
+#. Key:	1854414309
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(42).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(42).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1854414309"
+msgid "fill out the entries for setting a % chance for children/follower dinos to spawn in the wild"
+msgstr ""
+
+#. Key:	2473925075
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(454).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(454).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2473925075"
+msgid "If true, riding this dino will not disable turret mode, and the dino is allowed to move while a player is riding.\nMovement will still be disabled when no player is riding."
+msgstr ""
+
+#. Key:	3841659319
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(457).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(457).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3841659319"
+msgid "Allows this dino to override the camera view target per-frame. Dino logic should enable this only when needed and disable it when not in use."
+msgstr ""
+
+#. Key:	2260259174
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(475).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(475).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2260259174"
+msgid "if true, BPOverrideFPVViewLocation() and BPGetFPVViewLocation() will be called to allow the dino to overload the camera location.\nNecessary because bBPManagedFPVViewLocation only works if you have a rider."
+msgstr ""
+
+#. Key:	2194875839
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(488).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(488).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2194875839"
+msgid "AS: Enables the BP implementable functions BP_OnBasedPawnAddedNotify and BP_OnBasedPawnRemovedNotify"
+msgstr ""
+
+#. Key:	3359867837
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(494).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(494).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3359867837"
+msgid "AS: Forces IK to update while rotating, for dinos that can turn in place on slopes"
+msgstr ""
+
+#. Key:	1723111682
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(495).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(495).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1723111682"
+msgid "AS: Enables the BP implementable function BP_OverrideRiderCameraCollisionSweep"
+msgstr ""
+
+#. Key:	3609556333
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(537).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(537).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3609556333"
+msgid "CD: Disable all health gain from harvesting"
+msgstr ""
+
+#. Key:	2911459412
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(543).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(543).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2911459412"
+msgid "Also forces dino to be Remote Dino"
+msgstr ""
+
+#. Key:	2925287988
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(545).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(545).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2925287988"
+msgid "CD: Use mesh from skin applied skin as painting mesh"
+msgstr ""
+
+#. Key:	225352494
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(553).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(553).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,225352494"
+msgid "CD: force to skip pathfinding and use straight paths"
+msgstr ""
+
+#. Key:	3550977525
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(554).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(554).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3550977525"
+msgid "CD: by default we override the dinos MaxStepHeight to use the same value as the nav agent they use to match the navmesh, set this to true to prevent that."
+msgstr ""
+
+#. Key:	3398944216
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(587).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(587).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3398944216"
+msgid "excluded from sparse data because it involves a struct and there was one instance of child BPs crashing involving an array of structs"
+msgstr ""
+
+#. Key:	3361456400
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(589).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(589).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3361456400"
+msgid "DEBUG_PHYSICS_BODY - Uncomment Below\nUPROPERTY(Transient, Replicated)\nTArray<FVector_NetQuantize> BodiesPositions;\nDEBUG_DEDICATED_BONES - Uncomment Below\nUPROPERTY(Transient, Replicated)\nTArray<FVector_NetQuantize> BonesPositions;"
+msgstr ""
+
+#. Key:	3574419879
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(602).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(602).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3574419879"
+msgid "CD: Prevent any Buffs with these Tags, checks against CustomTag and (Actor)Tags\nthese are used as a hotfix to store some weight reduction genetrait stuff for faster access"
+msgstr ""
+
+#. Key:	3146911652
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(604).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(604).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3146911652"
+msgid "CD: holds death animations, can be anim sequence, montage or blendspace, name can be used to pick fitting death anim for each case like Idle, Walking, Falling, Swimming, etc"
+msgstr ""
+
+#. Key:	1488347893
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(605).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(605).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1488347893"
+msgid "excluded from sparse data - likely to be modified at runtime"
+msgstr ""
+
+#. Key:	1490719131
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(617).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(617).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1490719131"
+msgid "component space instead of world space"
+msgstr ""
+
+#. Key:	4228467955
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(637).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(637).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4228467955"
+msgid "a dino character mounted on this character (used with monkey)"
+msgstr ""
+
+#. Key:	1674543660
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(651).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(651).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1674543660"
+msgid "Anim used instead of HurtAnim when flying. If one is not specified, HurtAnim will be used while flying."
+msgstr ""
+
+#. Key:	3642321379
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(654).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(654).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3642321379"
+msgid "animation played on death"
+msgstr ""
+
+#. Key:	2795169284
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(655).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(655).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2795169284"
+msgid "[Only used on server] If non-null, this is the currently playing montage that is having its timing synced with the server"
+msgstr ""
+
+#. Key:	3697235212
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(658).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(658).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3697235212"
+msgid "sound played on death, local player only"
+msgstr ""
+
+#. Key:	1203239473
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(659).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(659).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1203239473"
+msgid "sound played when running"
+msgstr ""
+
+#. Key:	2252494122
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(660).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(660).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2252494122"
+msgid "sound played when stop running"
+msgstr ""
+
+#. Key:	1569285560
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(723).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(723).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1569285560"
+msgid "modifier for max movement speed"
+msgstr ""
+
+#. Key:	2450465491
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(782).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(782).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2450465491"
+msgid "AS: Jump Inputs (Leaving these as BP implementable events behind a bool due to legacy dependencies)"
+msgstr ""
+
+#. Key:	231237832
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(84).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(84).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,231237832"
+msgid "This buff will be given to all characters when they set this dino as a dynamic base"
+msgstr ""
+
+#. Key:	2148427186
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(856).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(856).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2148427186"
+msgid "AttachToOtherCharacter() was used. Use DetachFromOtherCharacter() to set false."
+msgstr ""
+
+#. Key:	3078063022
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(857).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(857).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3078063022"
+msgid "Can't be moved to sparse data: modified at runtime\n Called when this character took lethal damage, just before death"
+msgstr ""
+
+#. Key:	3825279328
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(872).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(872).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3825279328"
+msgid "AS: Allows this character to use BP_ForceAllowBuffClasses to whitelist specific buff classes when bPreventAllBuffs = true"
+msgstr ""
+
+#. Key:	495179581
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(873).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(873).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,495179581"
+msgid "[Server Only] Override hit marker indicator for the player that did damage to this character"
+msgstr ""
+
+#. Key:	4051839689
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(876).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(876).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4051839689"
+msgid "AS: Allows a character to have dye-able color regions but not the per-pixel painting"
+msgstr ""
+
+#. Key:	2824578095
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(887).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(887).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2824578095"
+msgid "AS: Disables IK logic when in any movement mode other than MOVE_Walking"
+msgstr ""
+
+#. Key:	530452444
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(889).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(889).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,530452444"
+msgid "AS: Interps the float that smoothly blends the HealthDamageMaterialOverlay alpha to the current health percentage, rather than hard setting on tick (THIS BOOL IS EXPENSIVE, SHOULD ONLY BE ENABLED WHEN YOU NEED IT (FORCES THE DINO MATERIAL TO UPDATE EVERY FRAME))"
+msgstr ""
+
+#. Key:	4046805092
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(899).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(899).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4046805092"
+msgid "WC-AS: If true, will call BP_ModifyInputAcceleration() at the end of ConstrainInputAcceleration(), which allows overriding the input acceleration on the Server and Autonomous Proxies."
+msgstr ""
+
+#. Key:	2622523652
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(909).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(909).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2622523652"
+msgid "CD: Enable using GroundConforming in AnimationBP"
+msgstr ""
+
+#. Key:	1659976069
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(910).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(910).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1659976069"
+msgid "CD: true if the character has been dragged once while either dead or sleeping, only resets on unsleep"
+msgstr ""
+
+#. Key:	3072852500
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(911).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(911).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3072852500"
+msgid "ARKNX : GS AR : allow blueprints to hook into the proper impulse event driven by the character movement"
+msgstr ""
+
+#. Key:	1621987999
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(914).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(914).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1621987999"
+msgid "CD: if enabled will call OnCharacterSteppedUp() notify function when the character does a step up"
+msgstr ""
+
+#. Key:	2391403970
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(919).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(919).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2391403970"
+msgid "CD: by default we don't update PPBlends when riding a vehicle, set this to true to enable PP updates"
+msgstr ""
+
+#. Key:	620405875
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(942).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(942).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,620405875"
+msgid "Default crouched eye height"
+msgstr ""
+
+#. Key:	4020676473
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(943).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(943).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4020676473"
+msgid "Set by character movement to specify that this Character is currently crouched."
+msgstr ""
+
+#. Key:	311314560
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(944).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(944).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,311314560"
+msgid "When true, player wants to jump"
+msgstr ""
+
+#. Key:	3235913296
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(945).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(945).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3235913296"
+msgid "When true, applying updates to network client (replaying saved moves for a locally controlled character)"
+msgstr ""
+
+#. Key:	1934044583
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(946).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(946).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1934044583"
+msgid "Tracks whether or not the character was already jumping last frame."
+msgstr ""
+
+#. Key:	1429502004
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(947).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(947).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1429502004"
+msgid "Jump key Held Time.\nThis is the time that the player has held the jump key, in seconds."
+msgstr ""
+
+#. Key:	447880875
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(948).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(948).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,447880875"
+msgid "INSTINCT-ASA :Time for holding space while in water"
+msgstr ""
+
+#. Key:	4262672825
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(949).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(949).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4262672825"
+msgid "Amount of jump force time remaining, if JumpMaxHoldTime > 0."
+msgstr ""
+
+#. Key:	3884458649
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(950).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(950).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3884458649"
+msgid "Track last time a jump force started for a proxy."
+msgstr ""
+
+#. Key:	79431527
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(951).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(951).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,79431527"
+msgid "The max time the jump key can be held.\nNote that if StopJumping() is not called before the max jump hold time is reached,\nthen the character will carry on receiving vertical velocity. Therefore it is usually\nbest to call StopJumping() when jump input has ceased (such as a button up event)."
+msgstr ""
+
+#. Key:	4243217458
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(952).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(952).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4243217458"
+msgid "The max number of jumps the character can perform.\nNote that if JumpMaxHoldTime is non zero and StopJumping is not called, the player\nmay be able to perform and unlimited number of jumps. Therefore it is usually\nbest to call StopJumping() when jump input has ceased (such as a button up event)."
+msgstr ""
+
+#. Key:	4099397509
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(953).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(953).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4099397509"
+msgid "Tracks the current number of jumps performed.\nThis is incremented in CheckJumpInput, used in CanJump_Implementation, and reset in OnMovementModeChanged.\nWhen providing overrides for these methods, it's recommended to either manually\nincrement / reset this value, or call the Super:: method."
+msgstr ""
+
+#. Key:	1886727563
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(954).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(954).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1886727563"
+msgid "Represents the current number of jumps performed before CheckJumpInput modifies JumpCurrentCount.\nThis is set in CheckJumpInput and is used in SetMoveFor and PrepMoveFor instead of JumpCurrentCount\nsince CheckJumpInput can modify JumpCurrentCount.\nWhen providing overrides for these methods, it's recommended to either manually\nset this value, or call the Super:: method."
+msgstr ""
+
+#. Key:	365137100
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(958).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(958).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,365137100"
+msgid "ARKSWITCH : Fixme : This was doing stuff with consumed input on pawns in the old engine. Is it still needed?\nAlso, please don't delete variable below, need for BP compatibility regardless"
+msgstr ""
+
+#. Key:	174079301
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(959).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(959).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,174079301"
+msgid "AS: Allows this char to call ModifySavedMoveAcceleration_PreRep() before replicating a client move to the server"
+msgstr ""
+
+#. Key:	1294027399
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(960).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(960).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1294027399"
+msgid "AS: Allows this char to call ModifySavedMoveAcceleration_PostRep() when the server receives a client move"
+msgstr ""
+
+#. Key:	347057486
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(961).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(961).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,347057486"
+msgid "AJW: Intercept the saved move combiner and reject the move combining"
+msgstr ""
+
+#. Key:	4158192022
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(963).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(963).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4158192022"
+msgid "If true, this Pawn's pitch will be updated to match the Controller's ControlRotation pitch, if controlled by a PlayerController."
+msgstr ""
+
+#. Key:	482283882
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(964).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(964).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,482283882"
+msgid "If true, this Pawn's yaw will be updated to match the Controller's ControlRotation yaw, if controlled by a PlayerController."
+msgstr ""
+
+#. Key:	1537164545
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(965).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(965).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1537164545"
+msgid "If true, this Pawn's roll will be updated to match the Controller's ControlRotation roll, if controlled by a PlayerController."
+msgstr ""
+
+#. Key:	1652560706
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(966).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(966).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1652560706"
+msgid "If set to false (default) given pawn instance will never affect navigation generation (but components could).\nSetting it to true will result in using regular AActor's navigation relevancy\ncalculation to check if this pawn instance should affect navigation generation.\n@note Use SetCanAffectNavigationGeneration() to change this value at runtime.\n@note Modifying this value at runtime will result in any navigation change only if runtime navigation generation is enabled.\n@note Override UpdateNavigationRelevance() to propagate the flag to the desired components.\n@see SetCanAffectNavigationGeneration(), UpdateNavigationRelevance()"
+msgstr ""
+
+#. Key:	124855742
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(970).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(970).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,124855742"
+msgid "Base eye height above collision center."
+msgstr ""
+
+#. Key:	1113059160
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(971).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(971).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1113059160"
+msgid "Default class to use when pawn is controlled by AI."
+msgstr ""
+
+#. Key:	3625737762
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(972).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(972).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3625737762"
+msgid "If Pawn is possessed by a player, points to its Player State.  Needed for network play as controllers are not replicated to clients."
+msgstr ""
+
+#. Key:	2023409786
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(973).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(973).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2023409786"
+msgid "Controller of the last Actor that caused us damage."
+msgstr ""
+
+#. Key:	2815742926
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(974).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(974).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2815742926"
+msgid "If true, this actor is only relevant to its owner. If this flag is changed during play, all non-owner channels would need to be explicitly closed."
+msgstr ""
+
+#. Key:	895176480
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(975).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(975).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,895176480"
+msgid "Always relevant for network (overrides bOnlyRelevantToOwner)."
+msgstr ""
+
+#. Key:	4088183814
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(976).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(976).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4088183814"
+msgid "Allows us to only see this Actor in the Editor, and not in the actual game.\n@see SetActorHiddenInGame()"
+msgstr ""
+
+#. Key:	2692244120
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(977).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(977).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2692244120"
+msgid "If actor has valid Owner, call Owner's IsNetRelevantFor and GetNetPriority"
+msgstr ""
+
+#. Key:	2362172571
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(979).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(979).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2362172571"
+msgid "If true then destroy self when \"finished\", meaning all relevant components report that they are done and no timelines or timers are in flight."
+msgstr ""
+
+#. Key:	1159052997
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(980).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(980).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1159052997"
+msgid "Whether this actor can take damage. Must be true for damage events (e.g. ReceiveDamage()) to be called.\n@see https://www.unrealengine.com/blog/damage-in-ue4\n@see TakeDamage(), ReceiveDamage()"
+msgstr ""
+
+#. Key:	3675254760
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(981).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(981).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3675254760"
+msgid "If true, this actor should search for an owned camera component to view through when used as a view target."
+msgstr ""
+
+#. Key:	2522129499
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(982).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(982).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2522129499"
+msgid "If true, this actor will generate overlap Begin/End events when spawned as part of level streaming, which includes initial level load.\nYou might enable this is in the case where a streaming level loads around an actor and you want Begin/End overlap events to trigger.\n@see UpdateOverlapsMethodDuringLevelStreaming"
+msgstr ""
+
+#. Key:	4230705398
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(983).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(983).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4230705398"
+msgid "Whether this actor should be considered or not during HLOD generation."
+msgstr ""
+
+#. Key:	1555156977
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(984).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(984).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1555156977"
+msgid "If true, this actor will replicate to remote machines\n@see SetReplicates()"
+msgstr ""
+
+#. Key:	1620760942
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(985).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(985).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1620760942"
+msgid "When true the replication system will only replicate the registered subobjects and the replicated actor components list\nWhen false the replication system will instead call the virtual ReplicateSubobjects() function where the subobjects and actor components need to be manually replicated."
+msgstr ""
+
+#. Key:	1084096672
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(986).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(986).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1084096672"
+msgid "How long this Actor lives before dying, 0=forever. Note this is the INITIAL value and should not be modified once play has begun."
+msgstr ""
+
+#. Key:	248962970
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(987).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(987).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,248962970"
+msgid "Allow each actor to run at a different time speed. The DeltaTime for a frame is multiplied by the global TimeDilation (in WorldSettings) and this CustomTimeDilation for this actor's tick."
+msgstr ""
+
+#. Key:	3513926691
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(988).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(988).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3513926691"
+msgid "Used for replicating attachment of this actor's RootComponent to another actor.\nThis is filled in via GatherCurrentMovement() when the RootComponent has an AttachParent."
+msgstr ""
+
+#. Key:	884219064
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(989).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(989).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,884219064"
+msgid "Dormancy setting for actor to take itself off of the replication list without being destroyed on clients."
+msgstr ""
+
+#. Key:	2469562264
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(990).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(990).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2469562264"
+msgid "Controls how to handle spawning this actor in a situation where it's colliding with something else. \"Default\" means AlwaysSpawn here."
+msgstr ""
+
+#. Key:	1811807090
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(991).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(991).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1811807090"
+msgid "The time this actor was created, relative to World->GetTimeSeconds().\nSee: UWorld::GetTimeSeconds()"
+msgstr ""
+
+#. Key:	3316407686
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(995).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(995).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3316407686"
+msgid "Priority for this actor when checking for replication in a low bandwidth or saturated situation, higher priority means it is more likely to replicate"
+msgstr ""
+
+#. Key:	4287282395
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(996).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(996).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4287282395"
+msgid "Pawn responsible for damage and other gameplay events caused by this actor. //PRIMAL - Savegame property added"
+msgstr ""
+
+#. Key:	2778313783
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(997).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(997).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2778313783"
+msgid "Local space pivot offset for the actor, only used in the editor"
+msgstr ""
+
+#. Key:	1518010145
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(998).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(998).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1518010145"
+msgid "The GUID for this actor; this guid will be the same for actors from instanced streaming levels.\n@see         ActorInstanceGuid, FActorInstanceGuidMapper\n@note        Don't use VisibleAnywhere here to avoid getting the CPF_Edit flag and get this property reset when resetting to defaults.\n                     See FActorDetails::AddActorCategory and EditorUtilities::CopySingleProperty for details."
+msgstr ""
+
+#. Key:	2785505713
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(999).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GetKibbleType.K2Node_GetClassDefaults_2.ShowPinForProperties(999).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2785505713"
+msgid "The instance GUID for this actor; this guid will be unique for actors from instanced streaming levels.\n@see         ActorGuid\n@note        This is not guaranteed to be valid during PostLoad, but safe to access from RegisterAllComponents."
+msgstr ""
+
+#. Key:	2587095138
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(27).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(27).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2587095138"
+msgid "Minimum Player distance to allow replenishing. if any live player is closer than this, it should not replenish."
+msgstr ""
+
+#. Key:	2198517402
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(28).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(28).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2198517402"
+msgid "Same as the player setting above, but checking for Structures."
+msgstr ""
+
+#. Key:	3237399716
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(3).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3237399716"
+msgid "ARKNX : GS AR : XB1_StoryTime branch rev 159659 merge"
+msgstr ""
+
+#. Key:	2482245641
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(30).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(30).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2482245641"
+msgid "The base minimum time after the resource is hidden by depletion, to replenish it."
+msgstr ""
+
+#. Key:	563679881
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(31).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(31).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,563679881"
+msgid "The base maximum time after the resource is hidden by depletion, to replenish it. the actual replenishment time will be random between the minimum and maximum time."
+msgstr ""
+
+#. Key:	1705428217
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(32).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(32).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1705428217"
+msgid "This should increase the calculated replenishment interval by how often the resource has been depleted within\n      the specified time interval. The idea being that if you are continually harvesting a resource over and over again,\n      it'll take longer to replenish next time. value of zero (Default) means don't use it."
+msgstr ""
+
+#. Key:	1833473850
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(33).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(33).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1833473850"
+msgid "This should exponentially alter the strength of ehe affect on the exhaustion for calculating the replenishing time."
+msgstr ""
+
+#. Key:	2040111844
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(34).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(34).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2040111844"
+msgid "This should linearly alter the strength of the effect on the exhaustion for calculating the replenishing time."
+msgstr ""
+
+#. Key:	3283833255
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(35).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(35).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3283833255"
+msgid "This would decrease the current Exhausted affect - amount at this rate, to gradually restore the resource replenishment speed to normal."
+msgstr ""
+
+#. Key:	3657794503
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(47).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(47).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,3657794503"
+msgid "virtual void OnRegister() override;"
+msgstr ""
+
+#. Key:	2800876171
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(52).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(52).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2800876171"
+msgid "Array of tags that can be used for grouping and categorizing. Can also be accessed from scripting."
+msgstr ""
+
+#. Key:	1548554054
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(53).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(53).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,1548554054"
+msgid "When true the replication system will only replicate the registered subobjects list\nWhen false the replication system will instead call the virtual ReplicateSubObjects() function where the subobjects need to be manually replicated."
+msgstr ""
+
+#. Key:	2620473406
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(54).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(54).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2620473406"
+msgid "Is this component currently replicating? Should the network code consider it for replication? Owning Actor must be replicating first!"
+msgstr ""
+
+#. Key:	2321112607
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(55).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(55).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,2321112607"
+msgid "Whether the component is activated at creation or must be explicitly activated."
+msgstr ""
+
+#. Key:	4103190914
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(56).ShowPinForProperties.PropertyTooltip
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveDeathHarvestingResources.K2Node_GetClassDefaults_1.ShowPinForProperties(56).ShowPinForProperties.PropertyTooltip
+msgctxt "UObjectToolTips,4103190914"
+msgid "If true, the component will be excluded from non-editor builds"
+msgstr ""
+
+#. Key:	696406108
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveKibble.K2Node_FunctionEntry_0.MetaData.Category
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder:GiveKibble.K2Node_FunctionEntry_0.MetaData.Category
+msgctxt "UObjectCategory,696406108"
+msgid "Kibble"
+msgstr ""
+
+#. Key:	940523119
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder_C:SimpleConstructionScript_0.SCS_Node_0.CategoryName
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder_C:SimpleConstructionScript_0.SCS_Node_0.CategoryName
+msgctxt "GraphLiteral,940523119"
+msgid "Default"
+msgstr ""
+
+#. Key:	940523119
+#. SourceLocation:	/EggGrinder/BP_EggGrinder.BP_EggGrinder_C:SimpleConstructionScript_0.SCS_Node_2.CategoryName
+#: /EggGrinder/BP_EggGrinder.BP_EggGrinder_C:SimpleConstructionScript_0.SCS_Node_2.CategoryName
+msgctxt "SCS,940523119"
+msgid "Default"
+msgstr ""
+
+#. Key:	1124302097
+#. SourceLocation:	/EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_0.NewTextRenderComponent.Text
+#: /EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_0.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,1124302097"
+msgid "8: Flesh"
+msgstr ""
+
+#. Key:	2064683932
+#. SourceLocation:	/EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+#: /EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,2064683932"
+msgid "2: Dirt"
+msgstr ""
+
+#. Key:	3587209621
+#. SourceLocation:	/EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_10.NewTextRenderComponent.Text
+#: /EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_10.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,3587209621"
+msgid "10: Rock"
+msgstr ""
+
+#. Key:	1348125568
+#. SourceLocation:	/EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_11.NewTextRenderComponent.Text
+#: /EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_11.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,1348125568"
+msgid "11: Sand"
+msgstr ""
+
+#. Key:	2920719161
+#. SourceLocation:	/EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_13.NewTextRenderComponent.Text
+#: /EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_13.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,2920719161"
+msgid "12: Snow"
+msgstr ""
+
+#. Key:	4147035396
+#. SourceLocation:	/EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_2.NewTextRenderComponent.Text
+#: /EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_2.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,4147035396"
+msgid "3: Water"
+msgstr ""
+
+#. Key:	416663131
+#. SourceLocation:	/EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_3.NewTextRenderComponent.Text
+#: /EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_3.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,416663131"
+msgid "4: Metal"
+msgstr ""
+
+#. Key:	3899407398
+#. SourceLocation:	/EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_4.NewTextRenderComponent.Text
+#: /EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_4.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,3899407398"
+msgid "5: Wood"
+msgstr ""
+
+#. Key:	3464775400
+#. SourceLocation:	/EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_5.NewTextRenderComponent.Text
+#: /EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_5.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,3464775400"
+msgid "6: Grass"
+msgstr ""
+
+#. Key:	4194012023
+#. SourceLocation:	/EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_6.NewTextRenderComponent.Text
+#: /EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_6.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,4194012023"
+msgid "7: Glass"
+msgstr ""
+
+#. Key:	456269855
+#. SourceLocation:	/EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_7.NewTextRenderComponent.Text
+#: /EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_7.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,456269855"
+msgid "1: Concrete"
+msgstr ""
+
+#. Key:	2581053416
+#. SourceLocation:	/EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_8.NewTextRenderComponent.Text
+#: /EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_8.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,2581053416"
+msgid "9: Leaves"
+msgstr ""
+
+#. Key:	2229490321
+#. SourceLocation:	/EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_9.NewTextRenderComponent.Text
+#: /EggGrinder/TestMapArea_EggGrinder.TestMapArea_EggGrinder:PersistentLevel.TextRenderActor_9.NewTextRenderComponent.Text
+msgctxt "GraphLiteral,2229490321"
+msgid "0: Unknown"
+msgstr ""
+
