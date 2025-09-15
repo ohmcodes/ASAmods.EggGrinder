@@ -38,5 +38,5 @@ Grass.SizeScale 0 | r.ContactShadows 0 | r.DynamicGlobalIlluminationMethod 0 | r
 [Paypal](https://www.paypal.com/donate/?business=8389QZ23QRDPE&no_recurring=0&item_name=Game+Server%2FTools+Community+Donations&currency_code=CAD)
 
 ### License
-This project is licensed under the MIT License - see the <a href="https://github.com/ohmcodes/WindowsGSM.Palworld/blob/main/LICENSE">LICENSE.md</a> file for details
+This project is licensed under the MIT License - see the <a href="https://github.com/ohmcodes/ASAmods.EggGrinder/blob/main/LICENSE">LICENSE.md</a> file for details
 
